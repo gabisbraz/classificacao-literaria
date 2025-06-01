@@ -1,4 +1,12 @@
+# IA Literária: Um Sistema Inteligente para Classificação de Livros por Gênero
+
+Este projeto tem como objetivo aplicar Inteligência Artificial ao domínio de documentos textuais, utilizando exclusivamente bibliotecas Python para construir um sistema simples e eficiente de classificação automática de livros por gênero literário. A proposta faz parte da temática "IA Aplicada a Documentos" e trata obras literárias — como sinopses, resumos e trechos — como documentos a serem analisados por modelos de linguagem.
+
+# Links úteis
+
 1. **Um GitHub público do projeto**
+
+    [GitHub](https://github.com/gabisbraz/classificacao-literaria/tree/main)
 
 2. **Código completo e executável em um notebook Python (este template)**
 
