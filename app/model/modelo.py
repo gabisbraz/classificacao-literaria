@@ -12,7 +12,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics import classification_report, accuracy_score
 
 # Downloads necessários do NLTK
-nltk.download("punkt")
+nltk.download("punkt_tab")
 nltk.download("stopwords")
 nltk.download("wordnet")
 
