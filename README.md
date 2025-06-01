@@ -2,7 +2,7 @@
 
 2. **Código completo e executável em um notebook Python (este template)**
 
-    [Clique aqui para acessar o notebook do repositório](https://classificacao-literaria-gmg.streamlit.app/)
+    [Clique aqui para acessar o notebook do repositório](https://github.com/gabisbraz/classificacao-literaria/blob/main/app/model/notebook_modelo.ipynb)
 
     [Clique aqui para acessar o colab](https://colab.research.google.com/drive/1JyRrAOc6DOOEfPw5l9ubVPZmleVt5nqN?usp=sharing)
 
