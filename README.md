@@ -12,7 +12,7 @@
 
 4. **Um texto/artigo do projeto**
 
-    [Clique aqui para acessar o artigo do projeto](https://classificacao-literaria-gmg.streamlit.app/)
+    [Clique aqui para acessar o artigo do projeto](https://github.com/gabisbraz/classificacao-literaria/blob/main/artigo.md)
 
 5. **Um vídeo (link YouTube ou outro) de no máximo 3min de apresentação do projeto**
 
