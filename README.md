@@ -24,4 +24,4 @@ Este projeto tem como objetivo aplicar Inteligência Artificial ao domínio de d
 
 5. **Um vídeo (link YouTube ou outro) de no máximo 3min de apresentação do projeto**
 
-    [Clique aqui para acessar o vídeo no YouTube](https://classificacao-literaria-gmg.streamlit.app/)
+    [Clique aqui para acessar o vídeo no YouTube](https://youtu.be/CFqtx-kCnWI)
